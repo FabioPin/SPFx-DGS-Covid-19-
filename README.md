@@ -2,7 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+SPFx DataTable covid 19 council information provided by DGS 💉
 
 [picture of the solution in action, if possible]
 
